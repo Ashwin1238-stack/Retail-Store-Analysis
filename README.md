@@ -86,10 +86,6 @@ This Power BI project demonstrates practical skills in:
 - Storytelling with Data
 - Delivering Business Insights through BI Tools
 
----
-
-## 🤝 **Connect With Me**
-[![Email](ashwinkr676@gmail.com)
 
 ---
 
