@@ -1,9 +1,3 @@
-# 📊 Power BI Sales Analysis Dashboard
-
-![Power BI Banner](https://drive.google.com/file/d/1jytVaFECuednhp19_62C4wvq6MUpbyDh/view?usp=drive_link)
-
----
-
 ## 📝 Project Overview
 
 In this project, I have developed an interactive **Power BI Sales Analysis Dashboard** to visualize and analyze key sales metrics from a retail dataset. This dataset includes essential business columns such as:
