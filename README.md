@@ -80,6 +80,13 @@ This Power BI project demonstrates practical skills in:
 - Storytelling with Data
 - Delivering Business Insights through BI Tools
 
+  ## 👨‍💻 Author & Contributors
+
+### ✨ [Ashwin Kumar](https://github.com/Ashwin1238-stack)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ashwin-kumar-9449b0164/)  
+💼 *Personal Banker turned Data Analyst*  
+🎓 *Masai School - Data Science*
+
 
 ---
 
